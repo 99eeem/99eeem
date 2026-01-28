@@ -1,4 +1,4 @@
-## Hi, I'm Hidetaka Sakisaka 👋
+## Hi, I'm Eiki Sakisaka 👋
 
 Senior Software Engineer with experience leading frontend development
 and building end-to-end systems across backend, cloud, and AI platforms.
