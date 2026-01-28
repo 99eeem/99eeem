@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Hidetaka Sakisaka 👋
 
-<!--
-**99eeem/99eeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with experience leading frontend development
+and building end-to-end systems across backend, cloud, and AI platforms.
 
-Here are some ideas to get you started:
+### Expertise
+- Frontend Leadership (React, TypeScript)
+- Backend & APIs (Python, FastAPI, REST)
+- Cloud & Infrastructure (AWS, Serverless, CI/CD)
+- AI / LLM internal automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: e.sakisaka@o-fi.io
+- GitHub: https://github.com/99eeem
